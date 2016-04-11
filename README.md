@@ -1,4 +1,4 @@
-# TrivialIntegrationTestWebService [![Build Status](https://api.travis-ci.org/jorgeb1980/TrivialIntegrationTestWebService.svg?branch=master)](https://travis-ci.org/jorgeb1980/TrivialIntegrationTestWebService/builds/latest)
+# TrivialIntegrationTestWebService [![Build Status](https://api.travis-ci.org/jorgeb1980/TrivialIntegrationTestWebService.svg)](https://travis-ci.org/jorgeb1980/TrivialIntegrationTestWebService/builds/latest)
 =======================
 
 This project implements a trivial example of a web service with separate unit and integration tests.  
