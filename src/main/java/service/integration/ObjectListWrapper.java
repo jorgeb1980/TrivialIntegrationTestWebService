@@ -11,7 +11,8 @@ import org.json.JSONObject;
 
 /**
  * Little artifact I like to use in order to generate a proper json string with a list of
- * objects with json.org
+ * objects with json.org.  Maybe I should consider switching to another JSON library, 
+ * but this is not the point of this example! ;)
  */
 public class ObjectListWrapper<T> {
 

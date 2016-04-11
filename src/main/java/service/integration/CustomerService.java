@@ -53,8 +53,10 @@ public class CustomerService {
 	
 	@GET
 	@Path("/{name}")
-	public Response getMsg(@PathParam("name") String name) {
+	public Response getCustomers(@PathParam("name") String name) {
 		List<Customer> ret = new LinkedList<>();
+		
+		System.err.println("--> customers");
 		
 		String test = name.toLowerCase();
 		for (Customer c: customers) {
