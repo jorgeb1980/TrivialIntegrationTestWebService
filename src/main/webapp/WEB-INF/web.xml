@@ -16,7 +16,7 @@
 
 	<servlet-mapping>
 		<servlet-name>jersey-servlet</servlet-name>
-		<url-pattern>/integration-test/*</url-pattern>
+		<url-pattern>/rest-api/*</url-pattern>
 	</servlet-mapping>
 
 </web-app>
